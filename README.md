@@ -43,7 +43,8 @@
 perler-bead-converter/
 ├── 拼豆图片转换器.html   # 工具本体（单文件，含全部 CSS/JS）
 ├── 使用教程.txt          # 详细使用说明
-└── README.md
+├── README.md
+└── LICENSE               # MIT License
 ```
 
 ## 🛠 技术说明
@@ -54,4 +55,6 @@ perler-bead-converter/
 
 ## 📄 License
 
-暂未选择开源协议，版权归作者所有。如需二次分发或修改，请先联系。
+本项目采用 [MIT License](./LICENSE) 开源发布。
+
+你可以自由地使用、复制、修改、合并、发布、分发、再许可及销售本软件的副本，只需保留版权声明与许可声明即可。
